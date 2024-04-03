@@ -1,0 +1,12 @@
+.back {
+    position:absolute;
+
+}
+#randImg {
+    margin: auto;
+    height: 25%;
+    width: 25%;
+    border-radius: 50px;
+    display:inline-block;
+    border: solid teal 10px;
+}
